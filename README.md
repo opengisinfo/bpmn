@@ -1,6 +1,6 @@
 # Opengis/BPMN
 
-Official website for the Opengis/BPMN platform — a solution for modeling, configuring, and running business processes using the BPMN 2.0 standard.
+Opengis/BPMN is a **BPMN 2.0** platform for modeling, configuring, and executing business processes — with a visual editor, forms, document review, and e-signature.
 
 ## Functions
 
